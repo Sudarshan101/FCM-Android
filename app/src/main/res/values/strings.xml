@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCMtest</string>
+    <string name="default_notification_channel_id">FCMTest</string>
+</resources>
